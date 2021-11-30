@@ -1,3 +1,0 @@
-# mouritzen.github.io
-
-Hugo
