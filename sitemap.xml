@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mouritzen.github.io/categories/</loc>
+    <loc>https://mouritzen.github.io/categories/</loc>
   </url><url>
-    <loc>http://mouritzen.github.io/</loc>
+    <loc>https://mouritzen.github.io/</loc>
   </url><url>
-    <loc>http://mouritzen.github.io/tags/</loc>
+    <loc>https://mouritzen.github.io/tags/</loc>
   </url>
 </urlset>
